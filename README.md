@@ -5,4 +5,5 @@ Practice the GitHub Platform
 Practice  commands
 
 ## Local Developmennt
-1. Open test.htmm in your web browser
+1. Open test.html in your web browser
+2. Open the terminal
